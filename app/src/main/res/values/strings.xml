@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JAFAR_1202150057_MODUL2</string>
+    <string-array name="spinner_meja">
+        <item>Meja 1</item>
+        <item>Meja 2</item>
+        <item>Meja 3</item>
+        <item>Meja 4</item>
+        <item>Meja 5</item>
+    </string-array>
+</resources>
